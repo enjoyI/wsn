@@ -1,3 +1,4 @@
+// author enjoy
 package topogenerator;
 
 public class Atom {
@@ -6,6 +7,7 @@ public class Atom {
 	public double x;
 	public double y;
 	public double z;
+	public double z1;
 	public double absx;
 	public double absy;
 	public double absz;
